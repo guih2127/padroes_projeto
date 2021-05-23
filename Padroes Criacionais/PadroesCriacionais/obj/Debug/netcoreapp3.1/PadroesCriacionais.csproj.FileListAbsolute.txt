@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.exe
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.deps.json
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.runtimeconfig.json
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.dll
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\bin\Debug\netcoreapp3.1\PadroesCriacionais.pdb
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.dll
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.pdb
+C:\Users\Usuario\Documents\DevHome\PadroesProjeto\Padroes Criacionais\PadroesCriacionais\obj\Debug\netcoreapp3.1\PadroesCriacionais.genruntimeconfig.cache
